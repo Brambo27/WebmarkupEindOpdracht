@@ -1,0 +1,3 @@
+User agent: *
+Disallow: /inholland
+https://brambos633931webmarkupeindopdracht.azurewebsites.net/sitemap.xml
